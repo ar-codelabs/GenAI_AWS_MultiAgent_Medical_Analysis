@@ -109,10 +109,6 @@ medical-ai-analysis/
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## ⚠️ Disclaimer
 
 This system is for research and educational purposes only. Always consult with qualified medical professionals for actual medical diagnosis and treatment decisions.
